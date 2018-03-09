@@ -17,7 +17,7 @@
 # Installation
 
 # For python in windows:
-Firstly install python 3.6 ![alt text](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe).This version is best i think.
+Firstly install ![python 3.6 ](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe).This version is best i think.
 ```
 pip install numpy
 
@@ -38,7 +38,7 @@ conda install sklearn
 ```
 
 # For R lib:
-Firstly download RStudio ![alt text](https://www.rstudio.com/products/rstudio/download/#download).Then install some laibary.
+Firstly download ![RStudio](https://www.rstudio.com/products/rstudio/download/#download).Then install some laibary.
 Such as-
 ```
 install.packages("foreign")
