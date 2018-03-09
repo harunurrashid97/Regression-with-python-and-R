@@ -4,6 +4,7 @@
 
 # মাল্টিনোমিয়াল(বহুমুখী ) লজিস্টিক রিগ্রেশন (এমএলআর) এর একটি উদাহরণ দেখানো হলঃ 
 ![alt Multinomial logistic regrassion with R](https://github.com/harunshimanto/Regression-with-python-and-R/blob/master/Multinomial%20Logistic%20Regression.R)
+
 ![alt Multinomial logistic regrassion with python ](https://github.com/harunshimanto/Regression-with-python-and-R/blob/master/multinomial%2Blogistic%2Bregression%2B.ipynb)
 
 
