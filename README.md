@@ -37,7 +37,7 @@ conda install scipy
 conda install sklearn
 ```
 
-# For R lib:
+# For R :
 Firstly download ![RStudio](https://www.rstudio.com/products/rstudio/download/#download).Then install some laibary.
 Such as-
 ```
@@ -60,7 +60,7 @@ install.packages("reshape2")
 * foreign
 * scipy
 
-## ## Contributing
+## Contributing
 
 1. Fork it
 2. Create your feature branch: git checkout -b my-new-feature
