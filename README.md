@@ -69,7 +69,7 @@ install.packages("reshape2")
 5. Submit a pull request
 
 ## Authors
-![Shimanto Pi](https://github.com/harunshimanto)
+![Shimanto](https://github.com/harunshimanto)
 
 ## License
 
