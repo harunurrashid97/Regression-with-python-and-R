@@ -26,4 +26,4 @@ The correlation coefficient 0.9053 satisfies the condition -1 <= Rxy <= 1, and i
 
 Finally, we'll predict the value for key = 8.
 
-![plot1](./img/Linear Regression with R.jpeg)
+![plot1](https://github.com/harunshimanto/Regression-with-python-and-R/blob/master/img/Linear%20Regression%20with%20R.jpeg)
