@@ -16,7 +16,7 @@ Linear regression implementation in R (for university course).
 
 We'll first enter the given data in R and create a scatter plot for it. Then we'll craft for our plot the "line of best fit", or the "least squares regression line".
 
-![plot](./img/correlation.png)
+![plot](./img/plot.png)
 
 After that, we'll define the "Pearson's correlation coefficient", commonly called "the correlation coefficient".
 
@@ -26,7 +26,7 @@ The correlation coefficient 0.9053 satisfies the condition -1 <= Rxy <= 1, and i
 
 Finally, we'll predict the value for key = 8.
 
-![LinearRegressionwithR](./img/Linear Regression with R.jpeg)
+![LinearRegressionwithR]()
 
 
 
