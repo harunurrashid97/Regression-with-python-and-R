@@ -27,3 +27,20 @@ The correlation coefficient 0.9053 satisfies the condition -1 <= Rxy <= 1, and i
 Finally, we'll predict the value for key = 8.
 
 ![plot1](https://github.com/harunshimanto/Regression-with-python-and-R/blob/master/img/Linear%20Regression%20with%20R.jpeg)
+
+
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch: git checkout -b my-new-feature
+3. Commit your changes: git commit -am 'Add some feature'
+4. Push to the branch: git push origin my-new-feature
+5. Submit a pull request
+
+## Authors
+![Shimanto](https://github.com/harunshimanto)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/harunshimanto/Regression-with-python-and-R/blob/master/LICENSE) file for details
